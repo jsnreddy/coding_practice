@@ -1,0 +1,9 @@
+.idea/
+.git/
+
+*.egg-info/
+*.pyc
+*.xml
+*.zip
+*.log
+__pycache__/
